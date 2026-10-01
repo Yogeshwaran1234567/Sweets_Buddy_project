@@ -18,7 +18,7 @@ body{
     font-family: var(--ff-primary);
     font-size: 0.875rem;
     background-color: white;
-    color: grey-1;
+    color: grey;
     line-height: 1.5;
 }
 
@@ -151,7 +151,7 @@ p{
     z-index: 3;
 }
 .navbar h3{
-    padding: 1 rem;
+    padding: 1rem;
     color: white;
     font-size: 2rem;
     text-align: center;
@@ -189,7 +189,7 @@ p{
     display: block;
     padding: 0.75rem 1rem;
     text-transform: uppercase;
-    font-size: 1.2 rem;
+    font-size: 1.2rem;
     letter-spacing: 0.1rem;
     transition: var(--transition);
 }
@@ -454,7 +454,7 @@ transform: translateY(-5px);
     height: 60px;
     width: 60px;
     background-color: red;
-    padding: 0.1.5rem 0.6rem;
+    padding: 0.15rem 0.6rem;
     border-radius: 50%;
     left: 50%;
     bottom: 0;
